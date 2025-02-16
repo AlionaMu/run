@@ -1,0 +1,92 @@
+{
+    "version": 10,
+    "duration": 763353,
+    "pause": 1647,
+    "calories": 122,
+    "dehydration_volume": 172,
+    "plausible": true,
+    "start_time_timezone_offset": 10800000,
+    "end_time_timezone_offset": 10800000,
+    "tracking_method": "tracked",
+    "start_time": 1497075159000,
+    "end_time": 1497075924000,
+    "user_perceived_start_time": 1497085959000,
+    "user_perceived_end_time": 1497086724000,
+    "created_at": 1497075925000,
+    "updated_at": 1718984880408,
+    "features": [
+        {
+            "type": "map",
+            "attributes": {
+                "encoded_trace": "usbhIavofDA?ELeArD_BpDs@bGwAbEg@hEg@tCdB|BtBjAlBjAhBzA|Br@b@dBOdC?RIPMf@c@vC?dEOdEWbFo@dFOlFQzEs@vDeBiAeCi@aB}BcC_@iBqCgCaB{BkA}@{@XkFB_GSwFMiBAQ",
+                "trace_available": true,
+                "start_latitude": 53.92204,
+                "start_longitude": 27.446894
+            }
+        },
+        {
+            "type": "track_metrics",
+            "attributes": {
+                "distance": 2333,
+                "average_speed": 3.056253135836238,
+                "average_pace": "0.32719802828975564",
+                "max_speed": "3.3501291666666666",
+                "elevation_gain": 24,
+                "elevation_loss": 38
+            }
+        },
+        {
+            "type": "fastest_segments",
+            "attributes": {
+                "segments": [
+                    {
+                        "distance": "1km",
+                        "duration": 304100,
+                        "started_at": 1497075560939
+                    },
+                    {
+                        "distance": "1mi",
+                        "duration": 514404,
+                        "started_at": 1497075364936
+                    }
+                ]
+            }
+        },
+        {
+            "type": "heart_rate",
+            "attributes": {
+                "average": 0,
+                "maximum": 0,
+                "trace_available": false
+            }
+        },
+        {
+            "type": "initial_values",
+            "attributes": {
+                "distance": 2333,
+                "duration": 763353,
+                "pause": 1647,
+                "sport_type": {
+                    "id": "1",
+                    "type": "sport_type"
+                },
+                "start_time": 1497075159000,
+                "end_time": 1497075924000
+            }
+        },
+        {
+            "type": "origin",
+            "attributes": {
+                "device": {
+                    "name": "Redmi Note 4",
+                    "vendor": "Xiaomi",
+                    "os_version": "unknown"
+                }
+            }
+        }
+    ],
+    "id": "593b90d50a623bf8906502c8",
+    "user_id": "e407f550-9543-af00-d75b-796cba9aac1b",
+    "sport_type_id": "1",
+    "creation_application_id": "1944"
+}
